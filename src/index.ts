@@ -1,5 +1,5 @@
 import Finder from './finder';
 
-const finder = new Finder('./bignumberdigits.txt');
+const finder = new Finder('./ng-bignumberdigits.txt');
 
-finder.findFirstPrimePalindromeOfNDigits(5);
+finder.findFirstPrimePalindromeOfNDigits(21);

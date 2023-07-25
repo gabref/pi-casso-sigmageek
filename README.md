@@ -1,5 +1,14 @@
 # pi-casso-sigmageek
 
+## TODO
+- [x] Read big file with streams
+- [x] Find a string in the file
+- [x] Add is even function
+- [x] Add is palindrome function
+- [ ] Fix isPrime algorithm
+
+## What does this do
+
 [The Challenge](https://sigmageek.com/challenge_results/1656603146901x235034290182684670)
 
 This was the first SigmaGeek challenge ,which involved 4 phases: 
